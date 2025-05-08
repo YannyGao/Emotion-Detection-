@@ -1,0 +1,42 @@
+- !<AssetImportMetadata/232f3273-39b1-48ad-a107-c597af98b98d>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 3f3462ba-5ac7-4f27-a4f7-1ba22e7a1434
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 3f3462ba-5ac7-4f27-a4f7-1ba22e7a1434
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 17e17e27-987f-4003-b3fc-a0863742d3fc
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/17e17e27-987f-4003-b3fc-a0863742d3fc>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 715bfbef-160a-44c9-a60e-083731dc3146
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    moodmaterial: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - moodmaterial: !<reference.Material> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input Asset.Material moodmaterial
+  SetupScript:
+    code: ""
