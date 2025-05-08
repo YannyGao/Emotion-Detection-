@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    ccca7434-e2cb-4dc3-937b-19066d35a9eb: cba68078-2493-4185-b7a5-85c2592db8ed/aa814977648fc34d9eb40804cb8626bc/Data/Pelvis.mesh
+  Assets:
+    - !<FileMesh/ccca7434-e2cb-4dc3-937b-19066d35a9eb>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 224
+        Vertices: 148
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 12.611852, y: 11.185185, z: 9.836517}
+  SourceHash: aa814977648fc34d9eb40804cb8626bc
+  FileHash: 28883f216c78f1c6e4a07ac5f81b078a
+  NativePackageItems:
+    []

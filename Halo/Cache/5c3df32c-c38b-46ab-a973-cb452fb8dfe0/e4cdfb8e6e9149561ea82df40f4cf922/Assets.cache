@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    9737f5c6-1722-4b49-8c49-d6776bd906f5: 5c3df32c-c38b-46ab-a973-cb452fb8dfe0/e4cdfb8e6e9149561ea82df40f4cf922/Data/Pyramid.mesh
+  Assets:
+    - !<FileMesh/9737f5c6-1722-4b49-8c49-d6776bd906f5>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 6
+        Vertices: 16
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 100.000000, y: 100.000000, z: 100.000000}
+  SourceHash: e4cdfb8e6e9149561ea82df40f4cf922
+  FileHash: 4246ddfa62a813c6f5b8c2006996f35a
+  NativePackageItems:
+    []

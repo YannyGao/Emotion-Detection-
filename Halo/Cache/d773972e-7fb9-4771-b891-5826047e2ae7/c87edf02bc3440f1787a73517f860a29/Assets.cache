@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    9334fec7-0195-433f-8e4b-01eb1a6c929d: d773972e-7fb9-4771-b891-5826047e2ae7/c87edf02bc3440f1787a73517f860a29/Data/Right_Shin.mesh
+  Assets:
+    - !<FileMesh/9334fec7-0195-433f-8e4b-01eb1a6c929d>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 252
+        Vertices: 163
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 5.517037, y: 21.732183, z: 5.378714}
+  SourceHash: c87edf02bc3440f1787a73517f860a29
+  FileHash: ebcfe77079c9292064bb42da4d416931
+  NativePackageItems:
+    []

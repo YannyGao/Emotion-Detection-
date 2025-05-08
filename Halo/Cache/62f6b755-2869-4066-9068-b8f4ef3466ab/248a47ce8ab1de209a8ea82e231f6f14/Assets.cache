@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    86f086cf-a9ec-4d2e-906b-02777da0b09a: 62f6b755-2869-4066-9068-b8f4ef3466ab/248a47ce8ab1de209a8ea82e231f6f14/Data/LeftUpper_Arm.mesh
+  Assets:
+    - !<FileMesh/86f086cf-a9ec-4d2e-906b-02777da0b09a>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 252
+        Vertices: 163
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 15.111112, y: 6.340741, z: 6.181765}
+  SourceHash: 248a47ce8ab1de209a8ea82e231f6f14
+  FileHash: 1d429c70164d92f3bde3a68e8b52dcc9
+  NativePackageItems:
+    []

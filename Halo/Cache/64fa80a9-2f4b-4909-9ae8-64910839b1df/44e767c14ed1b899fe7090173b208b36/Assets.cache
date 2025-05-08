@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    3a4fac53-c569-412f-8ee7-557f8da86f2b: 64fa80a9-2f4b-4909-9ae8-64910839b1df/44e767c14ed1b899fe7090173b208b36/Data/LeftFoot.mesh
+  Assets:
+    - !<FileMesh/3a4fac53-c569-412f-8ee7-557f8da86f2b>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 112
+        Vertices: 86
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 4.725926, y: 1.675432, z: 13.333333}
+  SourceHash: 44e767c14ed1b899fe7090173b208b36
+  FileHash: 58abfc6489b8a21344c8596c442fe626
+  NativePackageItems:
+    []

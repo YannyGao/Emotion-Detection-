@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    43fb6991-7ed5-4d11-90b7-bf55fa592fc9: 68ba3856-e3e6-4650-9b6d-5f8fd371da9a/4ccdf3886cab38695cb25b6f93b8b4d8/Data/Torus.mesh
+  Assets:
+    - !<FileMesh/43fb6991-7ed5-4d11-90b7-bf55fa592fc9>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 1024
+        Vertices: 561
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 0.998250, y: 0.332750, z: 0.998282}
+  SourceHash: 4ccdf3886cab38695cb25b6f93b8b4d8
+  FileHash: 64935d2b207c349ca3d3d99f6cc00bf9
+  NativePackageItems:
+    []

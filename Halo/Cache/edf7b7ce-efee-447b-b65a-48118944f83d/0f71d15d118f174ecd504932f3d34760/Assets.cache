@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    2e09a0dd-7e33-4a90-b7d9-b5911c1e28c7: edf7b7ce-efee-447b-b65a-48118944f83d/0f71d15d118f174ecd504932f3d34760/Data/occ.mesh
+  Assets:
+    - !<FileMesh/2e09a0dd-7e33-4a90-b7d9-b5911c1e28c7>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 373
+        Vertices: 469
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 17.341709, y: 17.938322, z: 20.540237}
+  SourceHash: 0f71d15d118f174ecd504932f3d34760
+  FileHash: e9b02a7db1452920a9d24b1bd6019900
+  NativePackageItems:
+    []

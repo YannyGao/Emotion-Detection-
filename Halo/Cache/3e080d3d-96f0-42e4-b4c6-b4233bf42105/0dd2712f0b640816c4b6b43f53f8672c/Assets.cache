@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    f8d363cd-0a61-49df-ad35-c6eec89be45d: 3e080d3d-96f0-42e4-b4c6-b4233bf42105/0dd2712f0b640816c4b6b43f53f8672c/Data/Bottom Row Gems.mesh
+  Assets:
+    - !<FileMesh/f8d363cd-0a61-49df-ad35-c6eec89be45d>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 5720
+        Vertices: 14674
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 0.163508, y: 0.163507, z: 0.002329}
+  SourceHash: 0dd2712f0b640816c4b6b43f53f8672c
+  FileHash: 052a9e633bb4d398d1d57c30ff7dedd9
+  NativePackageItems:
+    []

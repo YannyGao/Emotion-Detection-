@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    7f2e2cb4-d9d1-4910-bf14-5cf1a771b851: 6ae6fe07-9d55-4442-bf0d-2aacc177ebb2/87432f529ec947c2f981da15f128591b/Data/Neck_attatchment.mesh
+  Assets:
+    - !<FileMesh/7f2e2cb4-d9d1-4910-bf14-5cf1a771b851>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 1600
+        Vertices: 858
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 0.765391, y: 0.831102, z: 0.193288}
+  SourceHash: 87432f529ec947c2f981da15f128591b
+  FileHash: 3aa0531a898ba4caee725851d4eef560
+  NativePackageItems:
+    []

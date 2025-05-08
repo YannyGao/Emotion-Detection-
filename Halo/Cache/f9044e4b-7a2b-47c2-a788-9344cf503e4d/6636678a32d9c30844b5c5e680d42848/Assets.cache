@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    37e5e26d-f260-4f52-b854-a7f37161e465: f9044e4b-7a2b-47c2-a788-9344cf503e4d/6636678a32d9c30844b5c5e680d42848/Data/flowers orginal.png
+  Assets:
+    - !<FileTexture/37e5e26d-f260-4f52-b854-a7f37161e465>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 2048
+        Height: 2048
+  SourceHash: 6636678a32d9c30844b5c5e680d42848
+  FileHash: 7b1a0c7a6086205ffed47e57c530053a
+  NativePackageItems:
+    []

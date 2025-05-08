@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    eec37365-a30f-45a5-94fd-c66ebe8ec992: f061eec6-5e8b-4f34-b341-8daaf51a37ec/d6dc744bf150ad87f335a59d5690b98d/Data/hat.mesh
+  Assets:
+    - !<FileMesh/eec37365-a30f-45a5-94fd-c66ebe8ec992>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 2852
+        Vertices: 1579
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 19.378071, y: 17.254971, z: 22.258904}
+  SourceHash: d6dc744bf150ad87f335a59d5690b98d
+  FileHash: 8be0d3ce72d8402ffe00ac9bd5e256e1
+  NativePackageItems:
+    []

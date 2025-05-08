@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    fa677615-16ba-4b00-9a6d-5bc166619168: 90c39804-68e8-4a75-8989-d73cf79d84a1/3b796261fd6661f9d1ee72d78788571a/Data/Lights.mesh
+  Assets:
+    - !<FileMesh/fa677615-16ba-4b00-9a6d-5bc166619168>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 708
+        Vertices: 394
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 0.849068, y: 0.229887, z: 0.129950}
+  SourceHash: 3b796261fd6661f9d1ee72d78788571a
+  FileHash: 7e70475ed6d3906eb97f3a16c7edd80a
+  NativePackageItems:
+    []

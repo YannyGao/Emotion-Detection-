@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    e1c70a0a-629a-4d14-a66f-6f2043ab0227: 87bf4792-87e5-4118-a73e-7e271c121f81/9b497994399b42103f45d27fde58cf81/Data/Helmet_white.mesh
+  Assets:
+    - !<FileMesh/e1c70a0a-629a-4d14-a66f-6f2043ab0227>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 7360
+        Vertices: 3927
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 0.771457, y: 0.758898, z: 0.787621}
+  SourceHash: 9b497994399b42103f45d27fde58cf81
+  FileHash: 30264ffeba01ce0ae6183760a80fa9fa
+  NativePackageItems:
+    []

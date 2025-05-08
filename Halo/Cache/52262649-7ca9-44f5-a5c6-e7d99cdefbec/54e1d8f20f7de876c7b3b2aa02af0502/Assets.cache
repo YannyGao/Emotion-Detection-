@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    d9d91eab-524b-4a68-8e82-d168c98bcd57: 52262649-7ca9-44f5-a5c6-e7d99cdefbec/54e1d8f20f7de876c7b3b2aa02af0502/Data/Upper_Body.mesh
+  Assets:
+    - !<FileMesh/d9d91eab-524b-4a68-8e82-d168c98bcd57>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 224
+        Vertices: 148
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 12.226666, y: 16.074074, z: 9.536095}
+  SourceHash: 54e1d8f20f7de876c7b3b2aa02af0502
+  FileHash: 049ca7278b9560bfebe46b1ab5c86ab8
+  NativePackageItems:
+    []

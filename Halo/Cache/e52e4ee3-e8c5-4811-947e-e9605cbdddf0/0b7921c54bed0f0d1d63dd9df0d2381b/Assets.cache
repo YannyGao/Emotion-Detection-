@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    9649e4a7-1f75-4bc0-9fb5-e556cda09137: e52e4ee3-e8c5-4811-947e-e9605cbdddf0/0b7921c54bed0f0d1d63dd9df0d2381b/Data/Tube.mesh
+  Assets:
+    - !<FileMesh/9649e4a7-1f75-4bc0-9fb5-e556cda09137>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 320
+        Vertices: 234
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 100.000000, y: 100.000000, z: 100.000000}
+  SourceHash: 0b7921c54bed0f0d1d63dd9df0d2381b
+  FileHash: cfef9fd36a786c9d00481c6fface59b2
+  NativePackageItems:
+    []

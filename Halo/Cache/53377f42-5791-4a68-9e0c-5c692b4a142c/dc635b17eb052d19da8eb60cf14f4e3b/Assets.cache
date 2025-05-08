@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    03dde162-7afe-419e-9c3e-fd6255bae96b: 53377f42-5791-4a68-9e0c-5c692b4a142c/dc635b17eb052d19da8eb60cf14f4e3b/Data/Diffuse_hat.jpg
+  Assets:
+    - !<FileTexture/03dde162-7afe-419e-9c3e-fd6255bae96b>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: dc635b17eb052d19da8eb60cf14f4e3b
+  FileHash: 22c45f736983e2b90787ca225fc405ce
+  NativePackageItems:
+    []

@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    c05b138f-8f67-4c79-9472-6b41b606c3b9: 5f639301-3a08-47b4-a6ab-ca9e009fb4d8/d2e363e37d95935bbd865542b58cc680/Data/Big Round Gems.mesh
+  Assets:
+    - !<FileMesh/c05b138f-8f67-4c79-9472-6b41b606c3b9>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 3008
+        Vertices: 5120
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 0.163548, y: 0.163538, z: 0.032417}
+  SourceHash: d2e363e37d95935bbd865542b58cc680
+  FileHash: 60c3b3a7393c03a1bf79845ff5337436
+  NativePackageItems:
+    []

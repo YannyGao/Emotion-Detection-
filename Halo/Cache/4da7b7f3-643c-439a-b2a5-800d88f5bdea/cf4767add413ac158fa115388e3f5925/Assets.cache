@@ -1,0 +1,88 @@
+- !<AssetCache>
+  AssetFiles:
+    2c4ee5c4-eeaa-4e33-9998-24a6d2d47096: 4da7b7f3-643c-439a-b2a5-800d88f5bdea/cf4767add413ac158fa115388e3f5925/Data/Colorful Glow.ss_graph
+  Assets:
+    - !<ShaderGraphPass/2c4ee5c4-eeaa-4e33-9998-24a6d2d47096>
+      PackagePath: ""
+      DefaultDefines:
+        []
+      DefaultProperties:
+        Port_Depth_N004:
+          typeIdx: 1
+          value: 0.000000
+        Port_FinalColor2_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor3_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_GSplatPointSize_N004:
+          typeIdx: 1
+          value: 0.000000
+        Port_Import_N025:
+          typeIdx: 1
+          value: 0.700000
+        Port_Import_N026:
+          typeIdx: 1
+          value: 1.500000
+        Port_Multiplier_N006:
+          typeIdx: 1
+          value: 2.000000
+        Port_Offset_N000:
+          typeIdx: 1
+          value: 0.000000
+        Port_RayDirection_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_RayOrigin_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_Scale_N000:
+          typeIdx: 3
+          value: {x: 0.200000, y: 0.000000}
+        Port_Value3_N003:
+          typeIdx: 1
+          value: 1.000000
+        Port_Value4_N003:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value_N013:
+          typeIdx: 1
+          value: 1.000000
+        Port_WorldNormal_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_WorldPosition_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_WorldTangent_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 1.000000}
+      PassUiData: !<PassUiData>
+        ExtraDefines:
+          - SC_ENABLE_RT_CASTER
+        PassBindings:
+          - mLabel: Alpha Test Threshold
+            mType: Property
+            mName: alphaTestThreshold
+            mWidget: slider
+            mHint: |-
+              Property: alphaTestThreshold
+              
+              When the 'Alpha Test' blend mode is enabled, pixels with alpha values lower than this disappear.
+            mMin: 0.000000
+            mMax: 1.000000
+            mStep: 0.001000
+            mDefaultVal: 0.500000
+            mValues:
+              []
+        ShaderType: Mesh3d
+      ShaderPath: 4da7b7f3-643c-439a-b2a5-800d88f5bdea/cf4767add413ac158fa115388e3f5925/Data/6d7e450/Colorful Glow.glsl
+      Defines:
+        []
+      Properties:
+        {}
+  SourceHash: cf4767add413ac158fa115388e3f5925
+  FileHash: b09153f89a73225c7d7f38b3bedb8192
+  NativePackageItems:
+    []

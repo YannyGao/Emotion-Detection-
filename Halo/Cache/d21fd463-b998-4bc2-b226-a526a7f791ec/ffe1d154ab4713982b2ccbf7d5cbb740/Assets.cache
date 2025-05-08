@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    5f5db082-79b8-4961-b1b9-23609e391412: d21fd463-b998-4bc2-b226-a526a7f791ec/ffe1d154ab4713982b2ccbf7d5cbb740/Data/LeftShin.mesh
+  Assets:
+    - !<FileMesh/5f5db082-79b8-4961-b1b9-23609e391412>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 252
+        Vertices: 163
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 5.517037, y: 21.732183, z: 5.378714}
+  SourceHash: ffe1d154ab4713982b2ccbf7d5cbb740
+  FileHash: 69a23b52dffe81bdb51ead81a9846b5d
+  NativePackageItems:
+    []

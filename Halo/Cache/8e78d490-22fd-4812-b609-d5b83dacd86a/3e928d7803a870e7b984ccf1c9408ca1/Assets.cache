@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    261dc1e8-8de3-4a12-ad9d-c0c5c2fa0acf: 8e78d490-22fd-4812-b609-d5b83dacd86a/3e928d7803a870e7b984ccf1c9408ca1/Data/Small Round Gems.mesh
+  Assets:
+    - !<FileMesh/261dc1e8-8de3-4a12-ad9d-c0c5c2fa0acf>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 51136
+        Vertices: 87043
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 0.162550, y: 0.162376, z: 0.026566}
+  SourceHash: 3e928d7803a870e7b984ccf1c9408ca1
+  FileHash: 513a1ebadb890c7f6c0b5f48a8e1a686
+  NativePackageItems:
+    []

@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    7832192b-ffdc-41b8-947d-cb3eb726be4a: cd316176-2d24-4fe8-9f97-c7d03fea386d/d640b5948064636a4368230b0c64e4bc/Data/Oval Gems.mesh
+  Assets:
+    - !<FileMesh/7832192b-ffdc-41b8-947d-cb3eb726be4a>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 2688
+        Vertices: 6784
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 0.164605, y: 0.164541, z: 0.018655}
+  SourceHash: d640b5948064636a4368230b0c64e4bc
+  FileHash: 9d2a0ba857ee827babee50c4362153d8
+  NativePackageItems:
+    []

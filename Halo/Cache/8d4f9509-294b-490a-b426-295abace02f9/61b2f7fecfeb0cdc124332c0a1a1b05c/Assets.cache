@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    854d6d7c-fe53-4d6b-834d-c093251983d1: 8d4f9509-294b-490a-b426-295abace02f9/61b2f7fecfeb0cdc124332c0a1a1b05c/Data/Pipe_connectors.mesh
+  Assets:
+    - !<FileMesh/854d6d7c-fe53-4d6b-834d-c093251983d1>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 512
+        Vertices: 306
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 11.442943, y: 9.182136, z: 3.637496}
+  SourceHash: 61b2f7fecfeb0cdc124332c0a1a1b05c
+  FileHash: 2a0d10c46dde7c34a020e42886f9b243
+  NativePackageItems:
+    []

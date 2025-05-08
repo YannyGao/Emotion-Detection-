@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    f7993a45-f180-4840-a168-aaeeccc1c51b: e853b9bb-2f3c-4673-90e9-c8e36e205852/27a221620af394044220cb28fde8afba/Data/Right_Thigh.mesh
+  Assets:
+    - !<FileMesh/f7993a45-f180-4840-a168-aaeeccc1c51b>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 224
+        Vertices: 148
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 6.668889, y: 18.962963, z: 6.501686}
+  SourceHash: 27a221620af394044220cb28fde8afba
+  FileHash: 76acd2c2e43963ee08ba7960659276c3
+  NativePackageItems:
+    []

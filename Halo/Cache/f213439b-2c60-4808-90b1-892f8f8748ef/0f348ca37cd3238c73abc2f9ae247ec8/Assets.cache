@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    f5a0cd4c-a509-490a-9162-e2a97ce5b344: f213439b-2c60-4808-90b1-892f8f8748ef/0f348ca37cd3238c73abc2f9ae247ec8/Data/Shadow_hat.jpg
+  Assets:
+    - !<FileTexture/f5a0cd4c-a509-490a-9162-e2a97ce5b344>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 32
+  SourceHash: 0f348ca37cd3238c73abc2f9ae247ec8
+  FileHash: daf8aa9215e0f72861c01d8b30b824e0
+  NativePackageItems:
+    []

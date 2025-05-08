@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    a4e250c6-d859-4b91-9edc-e460fd81506e: 71b8159a-a88f-43b9-a683-c11ab27566d4/e9bd219b0e3f36c05cdddbc40b6be0e6/Data/reflection_params_0.pvr
+  Assets:
+    - !<FileTexture/a4e250c6-d859-4b91-9edc-e460fd81506e>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 64
+        Height: 64
+  SourceHash: e9bd219b0e3f36c05cdddbc40b6be0e6
+  FileHash: 78218e8e751d23ec29d67da44c7473f4
+  NativePackageItems:
+    []
