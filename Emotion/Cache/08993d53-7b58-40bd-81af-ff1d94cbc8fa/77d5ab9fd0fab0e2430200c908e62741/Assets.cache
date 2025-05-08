@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    6b6ee041-da10-4e6c-8e2d-0fa8e7b63a06: 08993d53-7b58-40bd-81af-ff1d94cbc8fa/77d5ab9fd0fab0e2430200c908e62741/Data/T_Sample-Pointer.png
+  Assets:
+    - !<FileTexture/6b6ee041-da10-4e6c-8e2d-0fa8e7b63a06>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: 77d5ab9fd0fab0e2430200c908e62741
+  FileHash: 457bf748e312416f11e1086d979bff84
+  NativePackageItems:
+    []

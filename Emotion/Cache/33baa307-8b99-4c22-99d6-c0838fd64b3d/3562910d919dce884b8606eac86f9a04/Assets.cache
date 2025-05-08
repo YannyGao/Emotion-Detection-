@@ -1,0 +1,332 @@
+- !<AssetCache>
+  AssetFiles:
+    b8f1d08f-95d6-4787-ba46-6a106d9b9dd9: 33baa307-8b99-4c22-99d6-c0838fd64b3d/3562910d919dce884b8606eac86f9a04/Data/Gauss Blur.ss_graph
+  Assets:
+    - !<ShaderGraphPass/b8f1d08f-95d6-4787-ba46-6a106d9b9dd9>
+      PackagePath: ""
+      DefaultDefines:
+        []
+      DefaultProperties:
+        Port_A_N066:
+          typeIdx: 1
+          value: 0.000000
+        Port_A_N082:
+          typeIdx: 1
+          value: 0.000000
+        Port_B_N059:
+          typeIdx: 1
+          value: 0.000000
+        Port_B_N076:
+          typeIdx: 1
+          value: 0.000000
+        Port_C_N059:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+        Port_C_N066:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+        Port_C_N076:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+        Port_C_N082:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+        Port_D_N059:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+        Port_D_N066:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+        Port_D_N076:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+        Port_D_N082:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+        Port_Depth_N004:
+          typeIdx: 1
+          value: 1.000000
+        Port_FinalColor1_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor2_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor3_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_GSplatPointSize_N004:
+          typeIdx: 1
+          value: 0.000000
+        Port_Import_N052:
+          typeIdx: 1
+          value: 0.000000
+        Port_Import_N053:
+          typeIdx: 1
+          value: 32.000000
+        Port_Import_N127:
+          typeIdx: 1
+          value: 3.790000
+        Port_Import_N193:
+          typeIdx: 1
+          value: -11.370001
+        Port_Import_N203:
+          typeIdx: 1
+          value: 3.790000
+        Port_Input0_N057:
+          typeIdx: 1
+          value: 1.000000
+        Port_Input0_N058:
+          typeIdx: 1
+          value: 1.000000
+        Port_Input0_N065:
+          typeIdx: 1
+          value: 1.000000
+        Port_Input0_N075:
+          typeIdx: 1
+          value: -1.000000
+        Port_Input0_N081:
+          typeIdx: 1
+          value: -1.000000
+        Port_Input1_N010:
+          typeIdx: 1
+          value: 0.700000
+        Port_Input1_N032:
+          typeIdx: 3
+          value: {x: 720.000000, y: 1280.000000}
+        Port_Input1_N045:
+          typeIdx: 1
+          value: 0.700000
+        Port_Input1_N056:
+          typeIdx: 1
+          value: 1.000000
+        Port_Input1_N069:
+          typeIdx: 1
+          value: 0.000000
+        Port_Input1_N090:
+          typeIdx: 1
+          value: 0.200000
+        Port_Input2_N026:
+          typeIdx: 1
+          value: 0.840000
+        Port_Input2_N054:
+          typeIdx: 1
+          value: -1.000000
+        Port_Input2_N069:
+          typeIdx: 1
+          value: 1.000000
+        Port_Input2_N105:
+          typeIdx: 1
+          value: 0.840000
+        Port_Item0_N021:
+          typeIdx: 3
+          value: {x: 1.016200, y: 0.420900}
+        Port_Item0_N084:
+          typeIdx: 3
+          value: {x: 1.016200, y: 0.420900}
+        Port_Item1_N021:
+          typeIdx: 3
+          value: {x: 0.420900, y: 1.016200}
+        Port_Item1_N084:
+          typeIdx: 3
+          value: {x: 0.420900, y: 1.016200}
+        Port_Item2_N021:
+          typeIdx: 3
+          value: {x: -0.420900, y: 1.016200}
+        Port_Item2_N084:
+          typeIdx: 3
+          value: {x: -0.420900, y: 1.016200}
+        Port_Item3_N021:
+          typeIdx: 3
+          value: {x: -1.016200, y: 0.420900}
+        Port_Item3_N084:
+          typeIdx: 3
+          value: {x: -1.016200, y: 0.420900}
+        Port_Item4_N021:
+          typeIdx: 3
+          value: {x: -1.016200, y: -0.420900}
+        Port_Item4_N084:
+          typeIdx: 3
+          value: {x: -1.016200, y: -0.420900}
+        Port_Item5_N021:
+          typeIdx: 3
+          value: {x: -0.420900, y: -1.016200}
+        Port_Item5_N084:
+          typeIdx: 3
+          value: {x: -0.420900, y: -1.016200}
+        Port_Item6_N021:
+          typeIdx: 3
+          value: {x: 0.420900, y: -1.016200}
+        Port_Item6_N084:
+          typeIdx: 3
+          value: {x: 0.420900, y: -1.016200}
+        Port_Item7_N021:
+          typeIdx: 3
+          value: {x: 1.016200, y: -0.420900}
+        Port_Item7_N084:
+          typeIdx: 3
+          value: {x: 1.016200, y: -0.420900}
+        Port_LODValue_N011:
+          typeIdx: 1
+          value: 0.000000
+        Port_LODValue_N061:
+          typeIdx: 1
+          value: 0.000000
+        Port_LODValue_N062:
+          typeIdx: 1
+          value: 0.000000
+        Port_LODValue_N068:
+          typeIdx: 1
+          value: 0.000000
+        Port_LODValue_N078:
+          typeIdx: 1
+          value: 0.000000
+        Port_LODValue_N086:
+          typeIdx: 1
+          value: 0.000000
+        Port_RayDirection_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_RayOrigin_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_Value2_N031:
+          typeIdx: 1
+          value: 1.000000
+        Port_Value3_N031:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value3_N049:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N031:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N049:
+          typeIdx: 1
+          value: 0.000000
+        Port_WorldNormal_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_WorldPosition_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_WorldTangent_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 1.000000}
+      PassUiData: !<PassUiData>
+        ExtraDefines:
+          []
+        PassBindings:
+          - mLabel: Graph Parameters
+            mType: Invalid
+            mName: ""
+            mWidget: group_start
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Screen Texture
+            mType: Property
+            mName: screenTexture
+            mWidget: texture_group
+            mHint: "Property: screenTexture"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Blur Factor
+            mType: Property
+            mName: blurFactor
+            mWidget: slider
+            mHint: "Property: blurFactor"
+            mMin: 0.000000
+            mMax: 5.000000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Opacity
+            mType: Define
+            mName: Tweak_N16
+            mWidget: group_start
+            mHint: "Define: Tweak_N16"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Texture
+            mType: Property
+            mName: opacityTex
+            mWidget: texture_group
+            mHint: "Property: opacityTex"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Opacity Blur Factor
+            mType: Property
+            mName: opacityblurFactor
+            mWidget: slider
+            mHint: "Property: opacityblurFactor"
+            mMin: 0.000000
+            mMax: 5.000000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: Tweak_N16
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: ""
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Alpha Test Threshold
+            mType: Property
+            mName: alphaTestThreshold
+            mWidget: slider
+            mHint: |-
+              Property: alphaTestThreshold
+              
+              When the 'Alpha Test' blend mode is enabled, pixels with alpha values lower than this disappear.
+            mMin: 0.000000
+            mMax: 1.000000
+            mStep: 0.001000
+            mDefaultVal: 0.500000
+            mValues:
+              []
+        ShaderType: PostProcessing
+      ShaderPath: 33baa307-8b99-4c22-99d6-c0838fd64b3d/3562910d919dce884b8606eac86f9a04/Data/ba39b79/Gauss Blur.glsl
+      Defines:
+        []
+      Properties:
+        {}
+  SourceHash: 3562910d919dce884b8606eac86f9a04
+  FileHash: 2a099b5fae8d66f78c1c34ff3cfef47c
+  NativePackageItems:
+    []

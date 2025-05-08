@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    e96d8b8f-374f-4940-a9a5-25027975b9a5: 366a4829-209c-4d07-b244-2305fe3ab4be/00a3d90b6309bf1d0669676c3fad8d88/Data/flower_hint.png
+  Assets:
+    - !<FileTexture/e96d8b8f-374f-4940-a9a5-25027975b9a5>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 843
+        Height: 865
+  SourceHash: 00a3d90b6309bf1d0669676c3fad8d88
+  FileHash: 3c8cc29f459043ad206072841935e313
+  NativePackageItems:
+    []

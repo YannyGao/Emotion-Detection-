@@ -1,0 +1,104 @@
+- !<AssetImportMetadata/589632a6-446d-47b5-bec6-2036bab041cc>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 0579f735-fb77-4e8c-950c-2403cb7bd5ed
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 0579f735-fb77-4e8c-950c-2403cb7bd5ed
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> 92de08b4-51c1-48b7-9d5e-6ada0cc2d00c
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/069b5716-8dd7-41fb-95ce-868feb48f0c0>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/92de08b4-51c1-48b7-9d5e-6ada0cc2d00c>
+  SvgIcon: |-
+    <?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+    <svg fill="#000000" width="800px" height="800px" viewBox="0 0 32 32" id="icon" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <style>
+          .cls-1 {
+            fill: none;
+          }
+        </style>
+      </defs>
+      <path d="M28,21H4a2.0021,2.0021,0,0,1-2-2V13a2.0021,2.0021,0,0,1,2-2H28a2.0021,2.0021,0,0,1,2,2v6A2.0021,2.0021,0,0,1,28,21ZM4,13v6H28V13Z"/>
+      <rect x="6" y="15" width="14" height="2"/>
+      <rect id="_Transparent_Rectangle_" data-name="&lt;Transparent Rectangle&gt;" class="cls-1" width="32" height="32"/>
+    </svg>
+  Description: |-
+    Customizable Progress Bar - @c4205M
+    
+    A simple customizable progress bar that adjusts its alignment based on texture aspect ratio. 
+    
+    ps. Use with Screen Transform Component
+    
+    Function/API Calls:
+    
+        script.progressBarUpdate(score, scoreMin, scoreMax, \{options\})
+            Updates the progress bar with new values.
+            Parameters:
+                score: Current score value.
+                scoreMin: Minimum score value.
+                scoreMax: Maximum score value.
+                options 
+                   \{
+                    additive: Set to true for additive score updates (default: false).
+                    removePointerOnCelebration: If true, hides the pointer on celebration (default: true).
+                    celebrationRevealDuration: Duration (in seconds) for revealing celebratory effects (default: 0.2).
+                    animationSpeed: Speed of the progress animation (default: 12).
+                    \}
+    -----------------------
+        script.resetProgressBar()
+            Resets the progress bar to its initial state.
+  InternalVersion: 1
+  VersionMajor: 1
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 3bb04551-a433-45c0-914a-2ad20a53451d
+  ExportUid: 14e6ad21-e412-4ec6-90a3-9ed652fc8136
+  CurrentVisibility: Locked
+  MaxVisibility: Locked
+  ScriptInputsHidden:
+    background: false
+    celebration: false
+    celebrationFrames: false
+    celebrationProgressFollow: false
+    celebrationRealignment: false
+    celebrationScale: false
+    maxProgression: false
+    minProgression: false
+    pointer: false
+    pointerAlignment: false
+    pointerScale: false
+    progressBarMaterial: true
+    progression: false
+    useCelebration: false
+    useFill: false
+    usePointer: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - porgressBarMaterial: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      progressBarMaterial: !<reference.Material> 9cdcdf3b-b0ce-441e-b5cc-632bb41118ee
+      maxProgression: !<float> 1.000000
+      minProgression: 0.220000
+      pointerScale: 0.250000
+      pointerAlignment: 0.400000
+      useFill: true
+      usePointer: true
+      useCelebrate: false
+      background: !<reference.Texture> 7c117be2-5b7d-43c2-84d3-9b6d5e5efb58
+      progression: !<reference.Texture> 538a5921-f024-4662-97a6-d9b67ca7ae8f
+      pointer: !<reference.Texture> 6b6ee041-da10-4e6c-8e2d-0fa8e7b63a06
+      celebrate: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+      useCelebration: true
+      celebration: !<reference.Texture> 2a5e592e-9c77-442b-bee5-6c5c51f5bfe5
+      celebrationFrames: !<Vec2> {x: 4.000000, y: 4.000000}
+      celebrationScale: 0.600000
+      celebrationRealignment: !<float> 0.000000
+      celebrationProgressFollow: false
+  ScriptTypes:
+    -
+      {}
