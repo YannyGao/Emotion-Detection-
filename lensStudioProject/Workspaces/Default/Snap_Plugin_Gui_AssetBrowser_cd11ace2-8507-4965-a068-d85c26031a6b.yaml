@@ -1,0 +1,56 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 50
+    values:
+      - Device Camera Texture.deviceCameraTexture
+      - Echopark.hdr
+      - Echopark.hdr/Diffuse
+      - Echopark.hdr/Specular
+      - Emotion_recognition_tf_lite_model.tflite
+      - Multi Class Classification/Default
+      - Multi Class Classification/Default/Device Camera Texture.deviceCameraTexture
+      - Multi Class Classification/Default/Screen Texture.screenTexture
+      - "Multi Class Classification/Flower Classification Resources/FlowerClassificationLabels [OPEN ME].js"
+      - Multi Class Classification/Flower Classification Resources/Models
+      - "Multi Class Classification/Flower Classification Resources/Models/post_train_quantized_flower_103_range_[-1,1].dnn"
+      - "Multi Class Classification/Flower Classification Resources/Models/quantize_aware_flower_103_range_[-1,1].dnn"
+      - Multi Class Classification/Flower Classification Resources/Screen Crop Texture.screenCropTexture
+      - Multi Class Classification/ML Hint
+      - Multi Class Classification/ML Hint/Font/fredokaone_regular.ttf
+      - Multi Class Classification/ML Hint/Materials/hint_image_masked.mat
+      - Multi Class Classification/ML Hint/Textures/flower_hint.png
+      - Multi Class Classification/ML Hint/Textures/ml_hint_hexagon.png
+      - Multi Class Classification/ML Hint/Textures/ml_hint_hexagon_mask.png
+      - Multi Class Classification/ML Hint/Textures/ml_loading
+      - Multi Class Classification/ML Hint/Textures/ml_loading/ml_loading.t3d
+      - Multi Class Classification/ML Hint/Textures/ml_loading/ml_loading.t3d/atlas_0.png
+      - Multi Class Classification/ML Hint/Textures/ml_loading/ml_loading.t3d/ml_loading
+      - "Multi Class Classification/Materials/Button_Material [EDIT].mat"
+      - Multi Class Classification/Materials/Gauss Blur.mat
+      - Multi Class Classification/Materials/SpritePreset.mat
+      - Multi Class Classification/Materials/Unlit.mat
+      - Multi Class Classification/Multi Class Classification__PUT_IN_ORTO_CAM.prefab
+      - Multi Class Classification/Progress Bar Panel/Progress Bar Prefab.prefab
+      - Multi Class Classification/Progress Bar Panel/ProgressBarMaterial.mat
+      - Multi Class Classification/Progress Bar Panel/Scripts/ProgressBar.js
+      - Multi Class Classification/Progress Bar Panel/Scripts/ProgressBarPanel.js
+      - Multi Class Classification/Progress Bar Panel/baseWhite.png
+      - Multi Class Classification/Read Me.js
+      - Multi Class Classification/Scripts/Helpers/Behavior.js
+      - Multi Class Classification/Scripts/Helpers/LayoutGrid.js
+      - Multi Class Classification/Scripts/MultiClassClassification.js
+      - Multi Class Classification/Scripts/SquareTextureCrop.js
+      - Multi Class Classification/Shaders
+      - "Multi Class Classification/Shaders/Button_Material [EDIT].ss_graph"
+      - Multi Class Classification/Shaders/Gauss Blur.ss_graph
+      - Multi Class Classification/Shaders/ProgressBarMaterial.ss_graph
+      - Multi Class Classification/Shaders/SpritePreset1.lsmat.ss_graph
+      - Multi Class Classification/Shaders/Unlit1.lsmat.ss_graph
+      - Multi Class Classification/Shaders/hint_image_masked.ss_graph
+      - Render Target.renderTarget
+      - Scene.scene
+      - White circle material.mat
+      - White circle.png
+      - image_unlit.ss_graph
+  options: 4

@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    d9ed6b81-bcda-492d-b9bf-6c908228a48a: a3838966-0dbc-49be-aa37-4b4dd6fe9156/d4139a2ae648080b8327778db8777515/Data/vecteezy_geometric-design-element_21048718.png
+  Assets:
+    - !<FileTexture/d9ed6b81-bcda-492d-b9bf-6c908228a48a>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 2048
+        Height: 2048
+  SourceHash: d4139a2ae648080b8327778db8777515
+  FileHash: 4c757a199dbf2eae116692f758d193b5
+  NativePackageItems:
+    []

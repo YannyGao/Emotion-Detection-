@@ -1,0 +1,5 @@
+ExternalSources:
+  type: "std::map<Es::Uuid, Es::Path>"
+  value:
+    - dea91c50-db60-4068-8a14-5fc78541909f: /Users/chaitanyashah/Downloads/tf_lite_model.tflite
+  options: 4

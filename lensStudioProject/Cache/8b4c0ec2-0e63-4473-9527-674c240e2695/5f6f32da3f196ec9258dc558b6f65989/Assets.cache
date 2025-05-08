@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    8a28c1fe-efab-4e44-8328-e6a8b18acb44: 8b4c0ec2-0e63-4473-9527-674c240e2695/5f6f32da3f196ec9258dc558b6f65989/Data/fredokaone_regular.ttf
+  Assets:
+    - !<Font/8a28c1fe-efab-4e44-8328-e6a8b18acb44>
+      PackagePath: ""
+  SourceHash: 5f6f32da3f196ec9258dc558b6f65989
+  FileHash: ec4ca28bca4b40d1720a21ef285498fa
+  NativePackageItems:
+    []

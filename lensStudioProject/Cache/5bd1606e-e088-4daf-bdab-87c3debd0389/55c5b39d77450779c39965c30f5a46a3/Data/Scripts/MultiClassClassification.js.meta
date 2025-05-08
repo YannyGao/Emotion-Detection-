@@ -1,0 +1,54 @@
+- !<AssetImportMetadata/997438f6-dd98-4d50-bfa6-9b8d99829b4d>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 3e25d951-d8bb-4eaf-a266-557a6b8c57fe
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 3e25d951-d8bb-4eaf-a266-557a6b8c57fe
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> 10430229-f853-469f-8706-76d166473356
+  DependentFiles: []
+  ImporterSettings: !<AssetImporterSettings/73c8a8fd-2744-4fbd-94aa-7e0e52b59a78> {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/10430229-f853-469f-8706-76d166473356>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 8b4ef37a-f1c6-4611-9c4a-65025dd7b12f
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    callFunction: false
+    classText: false
+    customTriggerPrefixFound: false
+    customTriggerPrefixLost: false
+    functionName: false
+    labels: false
+    mlComponent: false
+    placeholderText: false
+    printResultTo: false
+    scriptComponent: false
+    threshold: false
+    topK: false
+    useBehavior: false
+  ScriptTypesHidden: {}
+  DefaultScriptInputs:
+    - mlComponent: !<reference.MLComponent> 00000000-0000-0000-0000-000000000000
+      labels: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      threshold: 0.700000
+      topK: 3
+      callFunction: false
+      scriptComponent: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      functionName: functionName
+      useBehavior: false
+      customTriggerPrefixFound: FOUND_
+      customTriggerPrefixLost: LOST_
+      printResultTo: false
+      classText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      placeholderText: Looking for flower...
+  ScriptTypes:
+    - {}
