@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    229cff2d-f9e3-4e59-a271-d5e0e789d0ea: 1b63a4a8-827b-4241-b7ff-8c7af15300c7/fb7cc1e23dde2d435d1b7be002f68103/Data/viser.mesh
+  Assets:
+    - !<FileMesh/229cff2d-f9e3-4e59-a271-d5e0e789d0ea>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 1240
+        Vertices: 659
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 0.660445, y: 0.369230, z: 0.554610}
+  SourceHash: fb7cc1e23dde2d435d1b7be002f68103
+  FileHash: 9f8779eb3b1755c909eeeae2a55a3fb7
+  NativePackageItems:
+    []

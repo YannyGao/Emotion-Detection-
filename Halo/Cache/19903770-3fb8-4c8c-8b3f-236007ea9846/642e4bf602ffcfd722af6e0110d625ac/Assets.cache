@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    65525004-dda4-424c-a54a-386f16a874aa: 19903770-3fb8-4c8c-8b3f-236007ea9846/642e4bf602ffcfd722af6e0110d625ac/Data/Light_housings.mesh
+  Assets:
+    - !<FileMesh/65525004-dda4-424c-a54a-386f16a874aa>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 4544
+        Vertices: 2560
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 0.867375, y: 0.297340, z: 0.188494}
+  SourceHash: 642e4bf602ffcfd722af6e0110d625ac
+  FileHash: 478f5437684e0733e0490ef37a869972
+  NativePackageItems:
+    []

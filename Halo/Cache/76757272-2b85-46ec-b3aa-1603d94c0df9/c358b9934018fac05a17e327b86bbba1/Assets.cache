@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    d49b7866-7e5d-4069-9bec-510ea0cfbd52: 76757272-2b85-46ec-b3aa-1603d94c0df9/c358b9934018fac05a17e327b86bbba1/Data/Medium Round Gems.mesh
+  Assets:
+    - !<FileMesh/d49b7866-7e5d-4069-9bec-510ea0cfbd52>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 3008
+        Vertices: 5120
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 0.163037, y: 0.163041, z: 0.035951}
+  SourceHash: c358b9934018fac05a17e327b86bbba1
+  FileHash: 312f29766642ebf871fd2c60cae86a7a
+  NativePackageItems:
+    []

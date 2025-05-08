@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    735bbbbd-db5f-4828-bb5b-47063107b582: ac76b7cb-c9d8-49b6-900e-15496421b65b/e316b076002c050b5dea3ae0bfb859b0/Data/group1 flowerH_4.mesh
+  Assets:
+    - !<FileMesh/735bbbbd-db5f-4828-bb5b-47063107b582>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 42204
+        Vertices: 41955
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 2.429277, y: 1.929531, z: 1.396649}
+  SourceHash: e316b076002c050b5dea3ae0bfb859b0
+  FileHash: 60c85ed935f2603ee5a64bb8132aebf7
+  NativePackageItems:
+    []

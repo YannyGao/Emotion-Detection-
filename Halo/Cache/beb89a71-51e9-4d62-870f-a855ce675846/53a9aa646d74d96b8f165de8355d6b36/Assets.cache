@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    1abc83a8-1267-40f7-8532-f228895aaefc: beb89a71-51e9-4d62-870f-a855ce675846/53a9aa646d74d96b8f165de8355d6b36/Data/Disc.mesh
+  Assets:
+    - !<FileMesh/1abc83a8-1267-40f7-8532-f228895aaefc>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 16
+        Vertices: 17
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 100.000000, y: 0.000000, z: 100.000000}
+  SourceHash: 53a9aa646d74d96b8f165de8355d6b36
+  FileHash: 95a433b7c15b9276a8f8eefb80db026d
+  NativePackageItems:
+    []

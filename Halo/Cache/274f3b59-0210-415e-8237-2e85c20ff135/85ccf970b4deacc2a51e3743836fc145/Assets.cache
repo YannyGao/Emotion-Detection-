@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    da3a279e-2343-44bb-be33-39e9df2e269b: 274f3b59-0210-415e-8237-2e85c20ff135/85ccf970b4deacc2a51e3743836fc145/Data/occlude.mesh
+  Assets:
+    - !<FileMesh/da3a279e-2343-44bb-be33-39e9df2e269b>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 12
+        Vertices: 24
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 6.000000, y: 1.300000, z: 0.500000}
+  SourceHash: 85ccf970b4deacc2a51e3743836fc145
+  FileHash: d776cd95faf66e06ef7ab53784b41a02
+  NativePackageItems:
+    []

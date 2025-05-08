@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    e359fa44-a16f-4cd7-84e2-d57838dc0f08: 6201ba8f-26e9-41bc-8cec-f216ae6b63d2/adfe56dd7126cebf0c2718b36215c311/Data/pipe.mesh
+  Assets:
+    - !<FileMesh/e359fa44-a16f-4cd7-84e2-d57838dc0f08>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 8000
+        Vertices: 4267
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 0.298047, y: 0.493316, z: 0.457241}
+  SourceHash: adfe56dd7126cebf0c2718b36215c311
+  FileHash: e69fa2290ed2958080fc8e3497be5f4b
+  NativePackageItems:
+    []

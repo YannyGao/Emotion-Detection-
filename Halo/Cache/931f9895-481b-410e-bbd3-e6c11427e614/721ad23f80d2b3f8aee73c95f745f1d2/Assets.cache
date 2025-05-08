@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    2448ffc8-b029-4e08-a2b9-ffdc038b32c2: 931f9895-481b-410e-bbd3-e6c11427e614/721ad23f80d2b3f8aee73c95f745f1d2/Data/Big Teardrop Gems.mesh
+  Assets:
+    - !<FileMesh/2448ffc8-b029-4e08-a2b9-ffdc038b32c2>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 640
+        Vertices: 1696
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 0.168427, y: 0.168338, z: 0.024613}
+  SourceHash: 721ad23f80d2b3f8aee73c95f745f1d2
+  FileHash: 7abf43cd3c37fa9861509ad6ec1608e0
+  NativePackageItems:
+    []

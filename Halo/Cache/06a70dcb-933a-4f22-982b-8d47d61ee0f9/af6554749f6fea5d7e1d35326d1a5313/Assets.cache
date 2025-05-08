@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    c743ad65-c7a4-4bca-ad60-c52122c85cd6: 06a70dcb-933a-4f22-982b-8d47d61ee0f9/af6554749f6fea5d7e1d35326d1a5313/Data/Normal_hat.jpg
+  Assets:
+    - !<FileTexture/c743ad65-c7a4-4bca-ad60-c52122c85cd6>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: af6554749f6fea5d7e1d35326d1a5313
+  FileHash: 063854462ce3c61353c96cf9f669eb6a
+  NativePackageItems:
+    []

@@ -1,0 +1,90 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 84
+    values:
+      - Astronaut Helmet/.hidden/Helmet_body.ss_graph
+      - Astronaut Helmet/.hidden/Helmet_viser.ss_graph
+      - Astronaut Helmet/.hidden/Lights.ss_graph
+      - Astronaut Helmet/.hidden/Occluder.ss_graph
+      - Astronaut Helmet/Astronaut Helmet Resourses
+      - Astronaut Helmet/Astronaut Helmet Resourses/Face Mesh.facemesh
+      - Astronaut Helmet/Astronaut Helmet Resourses/Materials
+      - Astronaut Helmet/Astronaut Helmet Resourses/Materials/Helmet_body.mat
+      - Astronaut Helmet/Astronaut Helmet Resourses/Materials/Helmet_light_housings.mat
+      - Astronaut Helmet/Astronaut Helmet Resourses/Materials/Helmet_neck_attatchment.mat
+      - Astronaut Helmet/Astronaut Helmet Resourses/Materials/Helmet_pipe.mat
+      - Astronaut Helmet/Astronaut Helmet Resourses/Materials/Helmet_viser.mat
+      - Astronaut Helmet/Astronaut Helmet Resourses/Materials/Lights.mat
+      - Astronaut Helmet/Astronaut Helmet Resourses/Materials/Occluder.mat
+      - Astronaut Helmet/Astronaut Helmet Resourses/Meshes
+      - Astronaut Helmet/Astronaut Helmet Resourses/Meshes/Helmet_white.mesh
+      - Astronaut Helmet/Astronaut Helmet Resourses/Meshes/Light_housings.mesh
+      - Astronaut Helmet/Astronaut Helmet Resourses/Meshes/Lights.mesh
+      - Astronaut Helmet/Astronaut Helmet Resourses/Meshes/Neck_attatchment.mesh
+      - Astronaut Helmet/Astronaut Helmet Resourses/Meshes/Pipe_connectors.mesh
+      - Astronaut Helmet/Astronaut Helmet Resourses/Meshes/pipe.mesh
+      - Astronaut Helmet/Astronaut Helmet Resourses/Meshes/viser.mesh
+      - Astronaut Helmet/Astronaut_Helmet__PUT_UNDER_MAIN_CAM.prefab
+      - Astronaut Helmet/Textures
+      - Astronaut Helmet/Textures/MaterialParams.png
+      - Astronaut Helmet/Textures/reflection_params_0.pvr
+      - Astronaut Helmet/Textures/white 3.png
+      - Garnet Crown/.hidden/Asset.RenderMesh.mesh
+      - Garnet Crown/.hidden/Diamond.ss_graph
+      - Garnet Crown/.hidden/Gold.ss_graph
+      - Garnet Crown/.hidden/Occluder.lsmat.mat
+      - Garnet Crown/.hidden/Occluder1.lsmat.ss_graph
+      - Garnet Crown/Crown Resources/Materials
+      - Garnet Crown/Crown Resources/Materials/Diamond.mat
+      - Garnet Crown/Crown Resources/Materials/Garnet.mat
+      - Garnet Crown/Crown Resources/Materials/Gold.mat
+      - Garnet Crown/Crown Resources/Meshes/Base.mesh
+      - Garnet Crown/Crown Resources/Meshes/Big Round Gems.mesh
+      - Garnet Crown/Crown Resources/Meshes/Big Teardrop Gems.mesh
+      - Garnet Crown/Crown Resources/Meshes/Bottom Row Gems.mesh
+      - Garnet Crown/Crown Resources/Meshes/Medium Round Gems.mesh
+      - Garnet Crown/Crown Resources/Meshes/Metal Detail.mesh
+      - Garnet Crown/Crown Resources/Meshes/Oval Gems.mesh
+      - Garnet Crown/Crown Resources/Meshes/Small Round Gems.mesh
+      - Garnet Crown/Crown Resources/Textures
+      - Garnet Crown/Crown Resources/Textures/Screen Texture.screenTexture
+      - Garnet Crown/Crown Resources/Textures/white 2.png
+      - Garnet Crown/Crown__ADD_TO_SCENE_HIERARCHY.prefab
+      - Primitive Pack/.hidden
+      - Primitive Pack/.hidden/primitive_sample_material.ss_graph
+      - Primitive Pack/Primitive Pack Resources/Materials
+      - Primitive Pack/Primitive Pack Resources/Materials/primitive_sample_material.mat
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/Capsule.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/Cone.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/Cube.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/Cylinder.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/Disc.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/Head.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/Joint.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/LeftFoot.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/LeftHand.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/LeftJoint.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/LeftJoint_2.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/LeftJoint_3.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/LeftLower_Arm.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/LeftShin.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/LeftThigh.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/LeftUpper_Arm.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/Pelvis.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/Plane.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/Platonic.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/Pyramid.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/Right_Hand.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/Right_Lower_Arm.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/Right_Shin.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/Right_Thigh.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/Right_Upper_Arm.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/Sphere.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/Torus.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/Tube.mesh
+      - Primitive Pack/Primitive Pack Resources/Meshes/Primitive/Meshes/Upper_Body.mesh
+      - Primitive Pack/PrimitivePack__PLACE_IN_OBJECTS_PANEL.prefab
+      - Rainbow Material/.hidden/Rainbow.ss_graph
+      - Rainbow Material/Rainbow.mat
+  options: 4
