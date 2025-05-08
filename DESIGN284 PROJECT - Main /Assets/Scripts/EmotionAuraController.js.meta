@@ -1,0 +1,54 @@
+- !<AssetImportMetadata/7f2ed7be-c2c9-491f-950e-3861d408495a>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> a94aaa68-0286-48d4-bfac-be11f356eeed
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> a94aaa68-0286-48d4-bfac-be11f356eeed
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 2c18c98c-01eb-4707-aacc-644e059aad45
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/2c18c98c-01eb-4707-aacc-644e059aad45>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 76ebb953-648d-47d0-a0ff-a551458185b6
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    animationSpeed: false
+    auraMaterial: false
+    auraObject: false
+    auraSize: false
+    enableDebug: false
+    faceObject: false
+    positionOffset: false
+    showAdvancedOptions: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - faceObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      auraObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      auraMaterial: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      showAdvancedOptions: true
+      auraSize: 0.500000
+      animationSpeed: 0.500000
+      positionOffset: 0.100000
+      enableDebug: false
+  ScriptTypes:
+    -
+      {}
+  SetupScript:
+    code: ""
