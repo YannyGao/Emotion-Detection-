@@ -1,0 +1,94 @@
+- !<Material/45af0d5b-58af-4b60-8477-ce6d0be598ff>
+  PackagePath: ""
+  PassesInfo:
+    - !<own> 35a256b6-fb5d-404b-9385-9c0586edc7e7
+- !<PassInfo/35a256b6-fb5d-404b-9385-9c0586edc7e7>
+  DepthWrite: false
+  DepthTest: false
+  DepthFunction: LessEqual
+  TwoSided: false
+  ColorMask: {x: true, y: true, z: true, w: true}
+  CullMode: Back
+  PolygonOffset: {x: 0.000000, y: 0.000000}
+  FrustumCulling: Auto
+  FrustumCullPad: 0.000000
+  InstanceCount: 1
+  Defines:
+    []
+  BlendMode: Disabled
+  Properties:
+    Port_Input1_N045:
+      typeIdx: 1
+      value: 0.700000
+    Port_Input2_N105:
+      typeIdx: 1
+      value: 0.840000
+    Port_Item0_N084:
+      typeIdx: 3
+      value: {x: 1.016200, y: 0.420900}
+    Port_Item1_N084:
+      typeIdx: 3
+      value: {x: 0.420900, y: 1.016200}
+    Port_Item2_N084:
+      typeIdx: 3
+      value: {x: -0.420900, y: 1.016200}
+    Port_Item3_N084:
+      typeIdx: 3
+      value: {x: -1.016200, y: 0.420900}
+    Port_Item4_N084:
+      typeIdx: 3
+      value: {x: -1.016200, y: -0.420900}
+    Port_Item5_N084:
+      typeIdx: 3
+      value: {x: -0.420900, y: -1.016200}
+    Port_Item6_N084:
+      typeIdx: 3
+      value: {x: 0.420900, y: -1.016200}
+    Port_Item7_N084:
+      typeIdx: 3
+      value: {x: 1.016200, y: -0.420900}
+    PreviewEnabled:
+      typeIdx: 0
+      value: 0
+    blurFactor:
+      typeIdx: 1
+      value: 4.000000
+    overrideTimeDelta:
+      typeIdx: 1
+      value: 0.000000
+    overrideTimeElapsed:
+      typeIdx: 1
+      value: 0.000000
+    overrideTimeEnabled:
+      typeIdx: 0
+      value: 0
+    screenTexture:
+      typeIdx: 9
+      value:
+        id: 56f3b134-a2ba-466f-9620-c532be8353b6
+        sampler:
+          filteringMode: Trilinear
+          wrapModeU: ClampToEdge
+          wrapModeV: ClampToEdge
+          wrapModeW: ClampToEdge
+          borderColor: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+          mipmaps: true
+    screenTextureBorderColor:
+      typeIdx: 5
+      value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    screenTextureDims:
+      typeIdx: 5
+      value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    screenTextureSize:
+      typeIdx: 5
+      value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    screenTextureTransform:
+      typeIdx: 7
+      value:
+        0: {x: 1.000000, y: 0.000000, z: 0.000000}
+        1: {x: 0.000000, y: 1.000000, z: 0.000000}
+        2: {x: 0.000000, y: 0.000000, z: 1.000000}
+    screenTextureUvMinMax:
+      typeIdx: 5
+      value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  Pass: !<reference> b8f1d08f-95d6-4787-ba46-6a106d9b9dd9

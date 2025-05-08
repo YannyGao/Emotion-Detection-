@@ -1,0 +1,592 @@
+- !<AssetCache>
+  AssetFiles:
+    fa70f91c-c7a5-4b2d-a8a7-0d731575d36f: d2e95651-bfcd-40de-a8e3-f425b79a4699/be32422ac2bcd63c9d1e8056e098928c/Data/MF_SimpleProgressBar.ss_graph
+  Assets:
+    - !<ShaderGraphPass/fa70f91c-c7a5-4b2d-a8a7-0d731575d36f>
+      PackagePath: ""
+      DefaultDefines:
+        []
+      DefaultProperties:
+        Port_Center_N006:
+          typeIdx: 3
+          value: {x: 0.500000, y: 0.500000}
+        Port_Center_N027:
+          typeIdx: 3
+          value: {x: 0.500000, y: 0.500000}
+        Port_Center_N102:
+          typeIdx: 3
+          value: {x: 0.500000, y: 0.500000}
+        Port_Center_N120:
+          typeIdx: 3
+          value: {x: 0.500000, y: 0.500000}
+        Port_Center_N188:
+          typeIdx: 3
+          value: {x: 0.500000, y: 0.500000}
+        Port_Depth_N004:
+          typeIdx: 1
+          value: 1.000000
+        Port_FinalColor1_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor2_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor3_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_GSplatPointSize_N004:
+          typeIdx: 1
+          value: 0.000000
+        Port_Import_N035:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+        Port_Import_N056:
+          typeIdx: 1
+          value: 0.000000
+        Port_Import_N061:
+          typeIdx: 1
+          value: 0.000000
+        Port_Import_N072:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+        Port_Import_N088:
+          typeIdx: 1
+          value: 10.000000
+        Port_Import_N104:
+          typeIdx: 1
+          value: 10.000000
+        Port_Import_N158:
+          typeIdx: 1
+          value: 0.000000
+        Port_Import_N164:
+          typeIdx: 1
+          value: 0.000000
+        Port_Import_N190:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+        Port_Import_N194:
+          typeIdx: 1
+          value: 10.000000
+        Port_Import_N211:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+        Port_Import_N215:
+          typeIdx: 1
+          value: 10.000000
+        Port_Input0_N013:
+          typeIdx: 1
+          value: 0.000000
+        Port_Input0_N015:
+          typeIdx: 1
+          value: 0.000000
+        Port_Input0_N018:
+          typeIdx: 3
+          value: {x: 0.000000, y: 0.000000}
+        Port_Input0_N025:
+          typeIdx: 3
+          value: {x: 0.000000, y: 0.000000}
+        Port_Input0_N085:
+          typeIdx: 3
+          value: {x: 1.000000, y: 0.000000}
+        Port_Input0_N089:
+          typeIdx: 1
+          value: 10.000000
+        Port_Input0_N105:
+          typeIdx: 1
+          value: 10.000000
+        Port_Input0_N113:
+          typeIdx: 3
+          value: {x: 1.000000, y: 0.000000}
+        Port_Input0_N177:
+          typeIdx: 1
+          value: 0.000000
+        Port_Input0_N195:
+          typeIdx: 1
+          value: 10.000000
+        Port_Input0_N208:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+        Port_Input0_N216:
+          typeIdx: 1
+          value: 10.000000
+        Port_Input0_N239:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+        Port_Input1_N009:
+          typeIdx: 3
+          value: {x: 0.000000, y: 0.000000}
+        Port_Input1_N032:
+          typeIdx: 1
+          value: 0.000000
+        Port_Input1_N057:
+          typeIdx: 1
+          value: 0.000000
+        Port_Input1_N058:
+          typeIdx: 1
+          value: 0.000000
+        Port_Input1_N075:
+          typeIdx: 3
+          value: {x: 0.000000, y: 0.000000}
+        Port_Input1_N084:
+          typeIdx: 1
+          value: 1.000000
+        Port_Input1_N085:
+          typeIdx: 3
+          value: {x: 0.000000, y: 1.000000}
+        Port_Input1_N091:
+          typeIdx: 3
+          value: {x: 0.000000, y: 0.000000}
+        Port_Input1_N092:
+          typeIdx: 3
+          value: {x: 1.000000, y: 1.000000}
+        Port_Input1_N103:
+          typeIdx: 3
+          value: {x: 0.000000, y: 0.000000}
+        Port_Input1_N107:
+          typeIdx: 3
+          value: {x: 0.000000, y: 0.000000}
+        Port_Input1_N112:
+          typeIdx: 1
+          value: 1.000000
+        Port_Input1_N113:
+          typeIdx: 3
+          value: {x: 0.000000, y: 1.000000}
+        Port_Input1_N121:
+          typeIdx: 3
+          value: {x: 1.000000, y: 1.000000}
+        Port_Input1_N156:
+          typeIdx: 1
+          value: 1.000000
+        Port_Input1_N160:
+          typeIdx: 1
+          value: 0.000000
+        Port_Input1_N161:
+          typeIdx: 1
+          value: 0.000000
+        Port_Input1_N193:
+          typeIdx: 3
+          value: {x: 0.000000, y: 0.000000}
+        Port_Input1_N199:
+          typeIdx: 3
+          value: {x: 0.000000, y: 0.000000}
+        Port_Input1_N200:
+          typeIdx: 3
+          value: {x: 1.000000, y: 1.000000}
+        Port_Input1_N214:
+          typeIdx: 3
+          value: {x: 0.000000, y: 0.000000}
+        Port_Input1_N218:
+          typeIdx: 3
+          value: {x: 0.000000, y: 0.000000}
+        Port_Input1_N219:
+          typeIdx: 3
+          value: {x: 1.000000, y: 1.000000}
+        Port_Input1_N239:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_Input2_N009:
+          typeIdx: 3
+          value: {x: 1.000000, y: 1.000000}
+        Port_Input2_N032:
+          typeIdx: 1
+          value: 1.000000
+        Port_Input2_N057:
+          typeIdx: 1
+          value: 0.990000
+        Port_Input2_N067:
+          typeIdx: 1
+          value: 1.000000
+        Port_Input2_N075:
+          typeIdx: 3
+          value: {x: 1.000000, y: 1.000000}
+        Port_Input2_N103:
+          typeIdx: 3
+          value: {x: 1.000000, y: 1.000000}
+        Port_Input2_N160:
+          typeIdx: 1
+          value: 0.990000
+        Port_Input2_N168:
+          typeIdx: 1
+          value: 1.000000
+        Port_Input2_N193:
+          typeIdx: 3
+          value: {x: 1.000000, y: 1.000000}
+        Port_Input2_N214:
+          typeIdx: 3
+          value: {x: 1.000000, y: 1.000000}
+        Port_Input2_N239:
+          typeIdx: 5
+          value: {x: 0.500000, y: 0.500000, z: 0.500000, w: 0.500000}
+        Port_MaxFrames_N178:
+          typeIdx: 1
+          value: 16.000000
+        Port_RangeMaxA_N065:
+          typeIdx: 1
+          value: 1.000000
+        Port_RangeMaxA_N166:
+          typeIdx: 1
+          value: 1.000000
+        Port_RangeMaxA_N249:
+          typeIdx: 1
+          value: 0.000000
+        Port_RangeMinA_N065:
+          typeIdx: 1
+          value: 0.000000
+        Port_RangeMinA_N166:
+          typeIdx: 1
+          value: 0.000000
+        Port_RangeMinA_N249:
+          typeIdx: 1
+          value: 1.000000
+        Port_RangeMinB_N065:
+          typeIdx: 1
+          value: 0.000000
+        Port_RangeMinB_N166:
+          typeIdx: 1
+          value: 0.000000
+        Port_RayDirection_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_RayOrigin_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_SecondOffset_N178:
+          typeIdx: 1
+          value: 0.000000
+        Port_Speed_N178:
+          typeIdx: 1
+          value: 24.000000
+        Port_Value1_N098:
+          typeIdx: 1
+          value: 1.000000
+        Port_Value1_N116:
+          typeIdx: 1
+          value: 1.000000
+        Port_Value1_N225:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value2_N099:
+          typeIdx: 1
+          value: 1.000000
+        Port_Value2_N117:
+          typeIdx: 1
+          value: 1.000000
+        Port_Value2_N227:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value3_N002:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value3_N098:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value3_N099:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value3_N116:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value3_N117:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value3_N129:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value3_N225:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value3_N227:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N002:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N098:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N099:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N116:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N117:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N129:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N225:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N227:
+          typeIdx: 1
+          value: 0.000000
+        Port_WorldNormal_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_WorldPosition_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_WorldTangent_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 1.000000}
+      PassUiData: !<PassUiData>
+        ExtraDefines:
+          - SC_ENABLE_RT_CASTER
+        PassBindings:
+          - mLabel: Graph Parameters
+            mType: Invalid
+            mName: ""
+            mWidget: group_start
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Progression
+            mType: Invalid
+            mName: ""
+            mWidget: group_start
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Progression
+            mType: Property
+            mName: progressUpdate
+            mWidget: slider
+            mHint: "Property: progressUpdate"
+            mMin: 0.000000
+            mMax: 1.000000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Max
+            mType: Property
+            mName: maxProgression
+            mWidget: slider
+            mHint: "Property: maxProgression"
+            mMin: 0.000000
+            mMax: 1.000000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Min
+            mType: Property
+            mName: minProgression
+            mWidget: slider
+            mHint: "Property: minProgression"
+            mMin: 0.000000
+            mMax: 1.000000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Celebration Frames
+            mType: Property
+            mName: celebrationFrames
+            mWidget: spinbox
+            mHint: "Property: celebrationFrames"
+            mMin: 0.000000
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Pointer Alignment
+            mType: Property
+            mName: pointerAlignment
+            mWidget: spinbox
+            mHint: "Property: pointerAlignment"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Celebration Realignment
+            mType: Property
+            mName: celebrationAlignment
+            mWidget: spinbox
+            mHint: "Property: celebrationAlignment"
+            mMin: 0.000000
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Celebration Scale
+            mType: Property
+            mName: celebrationScale
+            mWidget: spinbox
+            mHint: "Property: celebrationScale"
+            mMin: 0.000000
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Pointer Scale
+            mType: Property
+            mName: pointerScale
+            mWidget: spinbox
+            mHint: "Property: pointerScale"
+            mMin: 0.000000
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: ""
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Celebration Atlas
+            mType: Property
+            mName: celebration
+            mWidget: texture_group
+            mHint: "Property: celebration"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Progress
+            mType: Property
+            mName: progression
+            mWidget: texture_group
+            mHint: "Property: progression"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: FollowPointer
+            mType: Property
+            mName: followPointer
+            mWidget: checkbox
+            mHint: "Property: followPointer"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: CelebrationTime
+            mType: Property
+            mName: celebrationTime
+            mWidget: spinbox
+            mHint: "Property: celebrationTime"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Celebrate
+            mType: Property
+            mName: celebrate
+            mWidget: spinbox
+            mHint: "Property: celebrate"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Background
+            mType: Property
+            mName: background
+            mWidget: texture_group
+            mHint: "Property: background"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: useFill
+            mType: Property
+            mName: useFill
+            mWidget: checkbox
+            mHint: "Property: useFill"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Pointer
+            mType: Property
+            mName: pointer
+            mWidget: texture_group
+            mHint: "Property: pointer"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: usePointer
+            mType: Property
+            mName: usePointer
+            mWidget: checkbox
+            mHint: "Property: usePointer"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: ""
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Alpha Test Threshold
+            mType: Property
+            mName: alphaTestThreshold
+            mWidget: slider
+            mHint: |-
+              Property: alphaTestThreshold
+              
+              When the 'Alpha Test' blend mode is enabled, pixels with alpha values lower than this disappear.
+            mMin: 0.000000
+            mMax: 1.000000
+            mStep: 0.001000
+            mDefaultVal: 0.500000
+            mValues:
+              []
+        ShaderType: Mesh3d
+      ShaderPath: d2e95651-bfcd-40de-a8e3-f425b79a4699/be32422ac2bcd63c9d1e8056e098928c/Data/ba39b79/MF_SimpleProgressBar.glsl
+      Defines:
+        []
+      Properties:
+        {}
+  SourceHash: be32422ac2bcd63c9d1e8056e098928c
+  FileHash: 66f798732c8648738bcef9ef57126032
+  NativePackageItems:
+    []

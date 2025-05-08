@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    2a5e592e-9c77-442b-bee5-6c5c51f5bfe5: 57e854a1-dd33-4ffa-ad5e-9f01860d9d24/1d9971607850e7a81ffca888abff7dc6/Data/T_Sample-Sprite.png
+  Assets:
+    - !<FileTexture/2a5e592e-9c77-442b-bee5-6c5c51f5bfe5>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 400
+        Height: 64
+  SourceHash: 1d9971607850e7a81ffca888abff7dc6
+  FileHash: 93e06efdfc8a6cccbbef555ca149ab75
+  NativePackageItems:
+    []

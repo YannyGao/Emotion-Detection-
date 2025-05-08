@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    7c117be2-5b7d-43c2-84d3-9b6d5e5efb58: 20a04d52-93bb-4fe7-97d0-57f26172420e/ec517e081b39052a84b1625497b60220/Data/T_Sample-Solid.png
+  Assets:
+    - !<FileTexture/7c117be2-5b7d-43c2-84d3-9b6d5e5efb58>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 128
+  SourceHash: ec517e081b39052a84b1625497b60220
+  FileHash: 00f0a42efc7941e8dadbf08edc479391
+  NativePackageItems:
+    []

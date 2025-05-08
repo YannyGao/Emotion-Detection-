@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    538a5921-f024-4662-97a6-d9b67ca7ae8f: 44f97b35-ce0d-4831-811a-fbfadf24320e/427b42f76bf395ae4e3ea2b88cbce1f3/Data/T_Sample-Progress.png
+  Assets:
+    - !<FileTexture/538a5921-f024-4662-97a6-d9b67ca7ae8f>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 128
+  SourceHash: 427b42f76bf395ae4e3ea2b88cbce1f3
+  FileHash: 9ceded7f875ec51c381943c8b4c5afe4
+  NativePackageItems:
+    []
