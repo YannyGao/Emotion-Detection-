@@ -13,7 +13,7 @@ This project enables **real-time emotion detection** using Snap Spectacles, Open
 **UI & UX Design**  
 - Yanny Gao ([rgao1218@stanford.edu](mailto:rgao1218@stanford.edu))
 
-**Spectacles Integration & Performance**  
+**Spectacles Integration**  
 - Taarush Grover ([grovertaarush@stanford.edu](mailto:grovertaarush@stanford.edu))
 
 ---
