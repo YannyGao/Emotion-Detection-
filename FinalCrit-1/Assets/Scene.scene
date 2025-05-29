@@ -1464,7 +1464,7 @@
   Enabled: true
   Layers: 1
   LocalTransform:
-    position: {x: -2.400000, y: 0.200000, z: 0.000000}
+    position: {x: -2.600000, y: 0.200000, z: 0.000000}
     rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
     scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     hasSegmentScaleCompensation: false
@@ -1741,7 +1741,7 @@
   Enabled: true
   Layers: 1
   LocalTransform:
-    position: {x: -2.000000, y: 0.300000, z: 0.000000}
+    position: {x: -2.200000, y: 0.300000, z: 0.000000}
     rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
     scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     hasSegmentScaleCompensation: false
@@ -2095,7 +2095,7 @@
   MeshShadowMode: None
   ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
   ShadowDensity: 1.000000
-  Text: Anticipation
+  Text: Admiration
   Editable: false
   ShowEditingPreview: true
   TouchHandler: !<reference> 00000000-0000-0000-0000-000000000000
@@ -2432,7 +2432,7 @@
   MeshShadowMode: None
   ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
   ShadowDensity: 1.000000
-  Text: Admiration
+  Text: Anticipation
   Editable: false
   ShowEditingPreview: true
   TouchHandler: !<reference> 00000000-0000-0000-0000-000000000000
@@ -3299,7 +3299,7 @@
   MeshShadowMode: None
   ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
   ShadowDensity: 1.000000
-  Text: Trust
+  Text: Happiness
   Editable: false
   ShowEditingPreview: true
   TouchHandler: !<reference> 00000000-0000-0000-0000-000000000000
@@ -4277,7 +4277,6 @@
         - !<reference> 9024fb00-61d4-4ebf-aa03-eed883ab4caf
         - !<reference> e7a5c904-6a80-4cea-8470-ebf69568517f
         - !<reference> 9c2f8fa4-c530-4c78-9569-42ad7669a2f4
-        - !<reference> 9c2f8fa4-c530-4c78-9569-42ad7669a2f4
         - !<reference> bf95466f-5f0b-4047-a588-435c50553187
         - !<reference> aa6a179a-e628-4172-984f-190dee8c2ef8
       emotionLabels: !<reference.Text[]>
@@ -4707,7 +4706,9 @@
   MeshShadowMode: None
   ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
   ShadowDensity: 1.000000
-  Text: Happiness
+  Text: |
+    Trust
+
   Editable: false
   ShowEditingPreview: true
   TouchHandler: !<reference> 00000000-0000-0000-0000-000000000000
