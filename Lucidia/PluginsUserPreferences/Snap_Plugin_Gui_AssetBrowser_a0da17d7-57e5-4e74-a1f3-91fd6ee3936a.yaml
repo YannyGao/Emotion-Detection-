@@ -1,0 +1,12 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 6
+    values:
+      - Echopark.hdr
+      - Head 3.mesh
+      - Occluder 3.mat
+      - Scripts
+      - Scripts/TS/VisionOpenAI.ts
+      - SpectaclesInteractionKit/package.native
+  options: 4

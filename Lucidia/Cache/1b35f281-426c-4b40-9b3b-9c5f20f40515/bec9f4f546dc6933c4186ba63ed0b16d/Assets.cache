@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    2c1b166e-5897-4faa-afc3-acb7068cf689: 1b35f281-426c-4b40-9b3b-9c5f20f40515/bec9f4f546dc6933c4186ba63ed0b16d/Data/Screenshot 2025-05-16 at 9.08.36 PM.png
+  Assets:
+    - !<FileTexture/2c1b166e-5897-4faa-afc3-acb7068cf689>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1
+        Height: 1
+  SourceHash: bec9f4f546dc6933c4186ba63ed0b16d
+  FileHash: 7fac14d471d579f18b6594a00eb6b19d
+  NativePackageItems:
+    []

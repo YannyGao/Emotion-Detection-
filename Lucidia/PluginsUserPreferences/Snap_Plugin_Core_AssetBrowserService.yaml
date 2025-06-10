@@ -1,0 +1,5 @@
+ExternalSources:
+  type: "std::map<Es::Uuid, Es::Path>"
+  value:
+    - 1b35f281-426c-4b40-9b3b-9c5f20f40515: /Users/rygao/Desktop/Screenshot 2025-05-16 at 9.08.36 PM.png
+  options: 4
