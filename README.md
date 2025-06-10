@@ -10,10 +10,12 @@ This project enables **real-time emotion detection** using Snap Spectacles, Open
 - Evelyn Song ([evsong@stanford.edu](mailto:evsong@stanford.edu))  
 - Katherine Lu ([mklu@stanford.edu](mailto:mklu@stanford.edu))
 
-**UI & UX Design**  
+**UI & UX Design, Technical Feature Development**  
 - Yanny Gao ([rgao1218@stanford.edu](mailto:rgao1218@stanford.edu))
 
-**Spectacles Integration**  
+**Expo Interior Design**  
+- Evelyn Song ([evsong@stanford.edu](mailto:evsong@stanford.edu))  
+- Katherine Lu ([mklu@stanford.edu](mailto:mklu@stanford.edu))
 - Taarush Grover ([grovertaarush@stanford.edu](mailto:grovertaarush@stanford.edu))
 
 ---
